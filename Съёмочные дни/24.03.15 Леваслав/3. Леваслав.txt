@@ -4,29 +4,36 @@
 
 Леваслав
 — Mission complete
+// Задача выполнена
 
 Прилетает корабль. Раскладывается на поляне. Выходит робопёс и подходит к Леваславу.
 Появляется голограмма Императора Нибиру. Леваслав кланяется.
 
 Леваслав
 — Master, I captured them, as you asked
+// Я исполнил ваше задание, господин
 
 Император Нибиру
 — Good good. A free Nibiru citizen you will become!
 The final mission awaits.
+// Чудно славно. Свободным гражданином Нибиру ты станешь. Остался последний шаг
 
 Леваслав
 — Anything you say
+// Я готов
 
 Император Нибиру
-— A soul circumcision
+— DNA circumcision
+//Обрезание ДНК
 
 Леваслав
 — ...
 
 Император Нибиру
-— The DNA of your soul contains an old redundant part. A patch from your slavic ancestors that supresses your reptile brain
-We will remove that part. And use it to decypher DNA of every slavic soul. And then... we will allow you to cross the border of mankind.
+— Your DNA contains an old redundant part. A patch from your slavic ancestors that supresses your reptile brain
+We will take it to decypher DNA of every slavic soul. And then... we will allow you to cross the border of mankind.
+// Твоя ДНК отягощена лишним фрагментом. Славянское недоразумение, подовляющее твой рептильный мозг
+// Мы заберём его, чтобы расшифровать геном славянской души. И тогда тебе будет дозволено пересечь границу человеческого
 
 Из корабля выдвигается робо-рука со шприцом
 
@@ -38,6 +45,7 @@ I'll accept your rights
 
 Император Нибиру
 — Not your hand
+// Нам нужна не рука
 
 Шприц неожиданно втыкается в лоб Леваслава. Из лба вытягивается красная часть души и улетает в корабль.
 Антена корабля поднимается вверх и эякулирует айфонами. Айфоны падают о землю и бьют хвостами
